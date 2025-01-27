@@ -17,4 +17,3 @@ You can toggle the debug setting by setting debug to true or false with the foll
 You must add a HTML5 canvas with the dots class and the recommended CSS: `<canvas class="dots" style="position: fixed; width: 100%; height: 100%; background-color: transparent; top: 0; z-index: -10;"></canvas>` <br> 
 ## Example <br>
 https://jsfiddle.net/yh1etzfg/8/ <br> <br>
-Credit when used is very appreciated
